@@ -1,0 +1,9 @@
+dependencies:
+- name: hue
+  repository: https://helm.gethue.com/
+  version: 1.0.3
+- name: hive
+  repository: https://gradiant.github.io/charts
+  version: 0.1.6
+digest: sha256:b1d411b0a3c0997e70e6ddd4a25fe4b2a63988c6d9c68280d01c6c686ad23719
+generated: "2021-07-29T14:19:03.856631+08:00"

@@ -1,0 +1,5 @@
+helm/hive
+helm/spark
+helm/hue
+*.tgz
+*.lock
